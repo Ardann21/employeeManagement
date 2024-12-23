@@ -1,0 +1,13 @@
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\EmployeeManagment.exe.config
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\EmployeeManagment.exe
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\EmployeeManagment.pdb
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.csproj.AssemblyReference.cache
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.Form1.resources
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.Properties.Resources.resources
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.csproj.GenerateResource.cache
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.csproj.CoreCompileInputs.cache
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.exe
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.pdb
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.HowToForm.resources
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.EmployeeInfo.resources
+C:\Users\akina\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\EmployeeManagment.register.resources
